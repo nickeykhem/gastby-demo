@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function test() {
+export default function Footer() {
     return (
         <div>
-            Testing page update, more
+            <p>Copyright 2021 Demo</p>
         </div>
     )
 }

@@ -4823,24 +4823,24 @@ if (false) {} else {
 /***/ }),
 
 /***/ "react-dom/server":
-/*!***************************************************************************************************!*\
-  !*** external "/mnt/f/Nickey/Documents/PROGRAMMING/gastby-demo/node_modules/react-dom/server.js" ***!
-  \***************************************************************************************************/
+/*!*****************************************************************************!*\
+  !*** external "/home/nike121/gatsby-demo/node_modules/react-dom/server.js" ***!
+  \*****************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("/mnt/f/Nickey/Documents/PROGRAMMING/gastby-demo/node_modules/react-dom/server.js");
+module.exports = require("/home/nike121/gatsby-demo/node_modules/react-dom/server.js");
 
 /***/ }),
 
 /***/ "react":
-/*!**********************************************************************************************!*\
-  !*** external "/mnt/f/Nickey/Documents/PROGRAMMING/gastby-demo/node_modules/react/index.js" ***!
-  \**********************************************************************************************/
+/*!************************************************************************!*\
+  !*** external "/home/nike121/gatsby-demo/node_modules/react/index.js" ***!
+  \************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("/mnt/f/Nickey/Documents/PROGRAMMING/gastby-demo/node_modules/react/index.js");
+module.exports = require("/home/nike121/gatsby-demo/node_modules/react/index.js");
 
 /***/ })
 
